@@ -7,3 +7,6 @@ this is practice project to learn git hub.let's do it
 
 # student
 aman
+hello
+# parents 
+dad
